@@ -41,7 +41,7 @@ I built a simple app using MitApp inventor to control the frame via smartphone. 
 ![Controller](https://user-images.githubusercontent.com/56454542/176923487-4343dd59-1eab-460a-8c5e-a7703836bc58.png)
 </br> 
 In Party mode both the corner and the center generates different animations as shown in the demo video. </br> 
-In Static mode every led from corner and center is turned on with the same color (corner and center colours are different), the color for both the center and the corner can be controlled via app.</br>
+In Static mode every led from corner and center is turned with an optional color (corner and center colours are different), the color for both the center and the corner can be controlled via app.</br>
 In Relax mode the corner's leds are on in a still white colour, creating a more relaxing animation. </br> 
 Strobo mode needs no introduction.
 
